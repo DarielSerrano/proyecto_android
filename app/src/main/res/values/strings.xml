@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FAST FOOD</string>
+    <string name="sandwiches">SANDWICHES</string>
+    <string name="sobre_nosotros">SOBRE NOSOTROS</string>
+    <string name="main_logo">MAIN LOGO</string>
+    <string name="sobre_nosotros_descripcion">Somos una empresa de la región con mas de 10 años de experiencia realizando sandwiches! Los mejores de la zona, si no chorrea no es Fast Food!!</string>
+    <string name="texto_columna">ejemplo</string>
+    <string name="imageExample">IMAGEN</string>
+    <string name="amc_tv_nombre">Nombre</string>
+    <string name="amc_tv_descripcion">Descripcion</string>
+    <string name="amc_tv_precio">$9999</string>
+    <string name="precio_tv">PRECIO:</string>
+    <string name="detalles">Detalle Sandwich</string>
+    <string name="home">Fast Food</string>
+
+</resources>
